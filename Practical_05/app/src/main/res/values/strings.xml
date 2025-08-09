@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical_05</string>
+    <string name="text1">Log In</string>
+    <string name="edit1">Enter Username</string>
+    <string name="edit2">Enter Password</string>
+    <string name="text2">Username</string>
+    <string name="text3">Password</string>
+    <string name="text4">LogIn</string>
+</resources>
